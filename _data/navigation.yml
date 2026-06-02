@@ -1,0 +1,12 @@
+- label: Home
+  url: /
+- label: About
+  url: /about/
+- label: Projects
+  url: /projects/
+- label: Research
+  url: /research/
+- label: Speaking
+  url: /speaking/
+- label: Contact
+  url: /contact/

@@ -1,10 +1,29 @@
-# sgx3ci26
-Test repo to teach GitHub Basics
+# Je'aime H. Powell Portfolio
 
-## This is my awesome project 
+A GitHub Pages portfolio site built with Jekyll.
 
-<h2> H2 Header </h2>
+## Local preview
 
-dklsajf;dkljjf;alkkjfkldsajf;dsakjfds;akljfds;klas
+```bash
+bundle install
+bundle exec jekyll serve
+```
 
-<img src="Screenshot 2026-06-01 at 12.12.58 PM.png">
+Then open `http://localhost:4000`.
+
+## Deploy on GitHub Pages
+
+1. Create a repository, for example `jeaimehp.github.io` or `portfolio`.
+2. Upload these files to the repository.
+3. In GitHub, go to **Settings > Pages**.
+4. Select the branch and root folder.
+5. Save and wait for GitHub Pages to publish.
+
+## Editing content
+
+- Site settings: `_config.yml`
+- Navigation: `_data/navigation.yml`
+- Skills: `_data/skills.yml`
+- Experience highlights: `_data/experience.yml`
+- Projects: files in `_projects/`
+- Main landing page: `index.md`

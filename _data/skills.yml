@@ -1,0 +1,35 @@
+- category: HPC and Research Computing
+  items:
+    - High Performance Computing
+    - Science Gateways
+    - Open OnDemand
+    - Kubernetes and K3s
+    - Slurm and scheduler workflows
+    - Research software infrastructure
+
+- category: AI and Automation
+  items:
+    - AI agents
+    - RAG workflows
+    - Local LLM deployment
+    - n8n automation
+    - Model fine-tuning workflows
+    - Vector databases
+
+- category: Workforce Development
+  items:
+    - Undergraduate HPC training
+    - Hackathon design
+    - Faculty development
+    - Curriculum development
+    - Student research mentoring
+    - Reproducible science training
+
+- category: Web and Content
+  items:
+    - GitHub Pages
+    - Jekyll
+    - Technical writing
+    - Conference websites
+    - Research communication
+    - Social media strategy

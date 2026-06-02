@@ -1,0 +1,31 @@
+title: "Je'aime H. Powell"
+description: "HPC, AI, Science Gateways, and Workforce Development Portfolio"
+url: ""
+baseurl: ""
+
+# GitHub Pages compatible settings
+markdown: kramdown
+theme: null
+plugins:
+  - jekyll-seo-tag
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: project
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
